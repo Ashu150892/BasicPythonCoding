@@ -44,3 +44,10 @@
    for i in range(3)
      for j in range(i)
      print(j)
+
+## for i in range(A):
+    for j in range(B):
+
+# Rows    = A
+  Columns = B
+  Total iterations = A × B

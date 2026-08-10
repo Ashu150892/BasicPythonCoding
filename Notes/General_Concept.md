@@ -4,5 +4,5 @@ type()
 range() --> range(stop), range(start, stop), range(Start, stop, step )
 end=
 sep=
-break
-continue
+break      --> discontinous the flow 
+continue   --> Skip current iteration
