@@ -19,4 +19,16 @@ count()  --> tell total occurance of element in list.
 index()  --> tell the position of index where element present.
 in        --> Return type boolean
 not       --> Return type boolean
-insert()  ---> insert value based on index number.
+insert()  --> insert value based on index number.
+items()   --> Give both Key & Value in Dictionaries
+value()   --> return value based on Key.
+get()     --> used when the Key is not present and to avoid KeyError. It return None
+update()  -->
+setdefault() --> If the Key exist it will not change but if not then it will add Key & Value
+discard()    --> remove with throwing error in Set.
+union()
+intersection()
+difference()   --> What is in First set but NOT in Second set?"
+symmetric_difference() -->  Values that are in either set, but NOT in both.
+issubset()             --> Return True or False
+isdisjoint()           --> two sets have no elements in common.

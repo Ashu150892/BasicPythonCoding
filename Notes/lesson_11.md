@@ -69,3 +69,6 @@ pop(index)    → remove by INDEX
   WHAT?         FROM?           WHICH?
 
 ## [value_if_true if condition else value_if_false for item in list]
+
+## Nested List --> List that contain the list inside it.
+    -- marks[ row ][ column ]
