@@ -39,9 +39,9 @@ Return type : bool
 
 ## Logical (and , or , not)
 
-Operator	Meaning
+# Operator    	Meaning
 and	        Both conditions must be True
-or	        At least one condition must be True
+or	           At least one condition must be True
 not	        Reverses True/False
 
 Return type : bool

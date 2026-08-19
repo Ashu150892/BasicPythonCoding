@@ -31,4 +31,4 @@ intersection()
 difference()   --> What is in First set but NOT in Second set?"
 symmetric_difference() -->  Values that are in either set, but NOT in both.
 issubset()             --> Return True or False
-isdisjoint()           --> two sets have no elements in common.
+isdisjoint()           --> two sets have no elements in common
