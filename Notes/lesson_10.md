@@ -15,3 +15,5 @@ def name_display()
 name_display()
 
 ## If want to use local variable globally use the concept of return.
+
+# A local variable belongs to the function. A global variable belongs to the outer program

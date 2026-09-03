@@ -32,3 +32,17 @@ difference()   --> What is in First set but NOT in Second set?"
 symmetric_difference() -->  Values that are in either set, but NOT in both.
 issubset()             --> Return True or False
 isdisjoint()           --> two sets have no elements in common
+map()                  --> changes/transforms every item.
+filter()               --> selects items based on a condition.
+reduce()               --> combine many values into one
+open()
+read()
+r                      --> raw string
+readline()             --> Read single line
+readlines()            —-> Read all lines as a list
+strip()                --> removes the extra newline (\n)
+write()            
+writelines():
+getcwd()               --> Get Current Working Directory
+writerow()
+reader()
