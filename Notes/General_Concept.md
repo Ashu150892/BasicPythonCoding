@@ -45,4 +45,11 @@ write()
 writelines():
 getcwd()               --> Get Current Working Directory
 writerow()
+writerows()
 reader()
+DictReader()
+DictWriter()
+load()
+dump()
+variable_name(row[index])
+variable_name(row["column_Name"])

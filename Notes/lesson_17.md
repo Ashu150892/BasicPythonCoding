@@ -32,3 +32,38 @@ readlines()	    All lines as a list	       ["Python\n", "AI\n", ...]
 ## the old content is deleted/overwritten.
 
 # CSV
+
+csv.reader()     → Read CSV
+row[index]       → Access columns
+csv.writer()     → Create a writer
+writer.writerow() → Write one row
+
+
+## JSON:
+
+1. JSON stands for:  JavaScript Object Notation
+
+json.load()
+     ↓
+JSON file → Python object
+
+json.dump()
+     ↓
+Python object → JSON file
+
+
+##
+csv.reader()   → Read CSV
+csv.writer()   → Write CSV
+
+json.load()    → Read JSON
+json.dump()    → Write JSON
+
+
+
+#
+Dictionary → use key    {}
+List       → use index  []
+
+with open("employee.json", "w") as file:
+    json.dump(employee, file, indent=4)
