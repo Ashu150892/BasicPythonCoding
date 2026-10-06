@@ -1,3 +1,4 @@
 # FileType
 *.csv
+.venv/
 *.txt
